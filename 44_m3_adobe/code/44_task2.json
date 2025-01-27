@@ -1,0 +1,1277 @@
+[
+    {
+        "index": "152",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are noticeable random speckles across the image, resembling artificial noise rather than a natural pattern. Position: Everywhere"
+    },
+    {
+        "index": "250",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is an appearance of random speckles or grain across the entire image. Position: Throughout the image"
+    },
+    {
+        "index": "26",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "The image has a grainy appearance, suggesting the presence of artificial noise which disrupts the uniformity of the surface. Position: Throughout the entire image"
+    },
+    {
+        "index": "105",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "These are random fluctuations in brightness or color that mimic the look of grainy film or digital noise. Position: Throughout the image"
+    },
+    {
+        "index": "133",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "No description available Position: Throughout the entire image"
+    },
+    {
+        "index": "165",
+        "artifact_name": "Asymmetric features in naturally symmetric objects",
+        "explanation": "The pattern lacks symmetry, which is unusual for naturally occurring structures. Position: Across the entire image"
+    },
+    {
+        "index": "185",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The image appears to have overly smooth surfaces that lack detail and variation, which is typical for artificial noise patterns in uniform surfaces. Position: Throughout the entire image"
+    },
+    {
+        "index": "189",
+        "artifact_name": "Texture repetition patterns",
+        "explanation": "There are repeating patterns visible in the texture, indicating that the same pattern is being repeated across different parts of the image. Position: Throughout the entire image"
+    },
+    {
+        "index": "217",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "Loss of detail and sharpness in areas where it should be present. Position: Generalized smoothing across the image."
+    },
+    {
+        "index": "14",
+        "artifact_name": "Non-manifold geometries in rigid structures",
+        "explanation": "The structure lacks a continuous manifold, leading to non-uniform appearance and possible distortions. Position: Throughout the entire image"
+    },
+    {
+        "index": "218",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is a presence of random speckles across the image, suggesting the application of artificial noise rather than natural variation. Position: Throughout the entire image"
+    },
+    {
+        "index": "71",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are noticeable grainy or noisy elements that disrupt the otherwise uniform appearance of the surface. Position: Scattered across the image"
+    },
+    {
+        "index": "121",
+        "artifact_name": "Inconsistent object boundaries",
+        "explanation": "Irregular edges or borders where objects should meet, disrupting the overall coherence. Position: Throughout the image"
+    },
+    {
+        "index": "91",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The overall texture appears to be excessively smooth without the expected variation and detail that would naturally occur in such patterns. Position: Throughout the entire image"
+    },
+    {
+        "index": "240",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "Some areas of the image appear overly smooth, lacking the fine details typically found in natural textures. Position: Multiple locations across the image"
+    },
+    {
+        "index": "275",
+        "artifact_name": "Over-smoothing",
+        "explanation": "Lack of sharpness and detail in natural textures due to excessive smoothing. Position: Everywhere in the image"
+    },
+    {
+        "index": "84",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is a noticeable grainy appearance across the image that suggests the presence of artificial noise rather than natural variation. Position: Throughout the entire image"
+    },
+    {
+        "index": "82",
+        "artifact_name": "Noise gradients",
+        "explanation": "There are variations in brightness across the image, suggesting noise gradients that could result from camera settings or image processing techniques. Position: Throughout the entire image"
+    },
+    {
+        "index": "216",
+        "artifact_name": "Texture bleeding between adjacent regions",
+        "explanation": "No description available Position: Multiple locations throughout the image"
+    },
+    {
+        "index": "212",
+        "artifact_name": "Aliasing along high-contrast edges",
+        "explanation": "Sharp jagged lines where the resolution is not sufficient for smooth transitions between shades or colors. Position: Along the bright central line extending from the center outward"
+    },
+    {
+        "index": "34",
+        "artifact_name": "Texture bleeding between adjacent regions",
+        "explanation": "The image shows a gradient of gray tones that blend into each other, indicating the presence of texture bleeding where one texture spills over into another. Position: Throughout the entire image"
+    },
+    {
+        "index": "267",
+        "artifact_name": "Texture bleeding between adjacent regions",
+        "explanation": "Textures appear to blend into one another without clear boundaries, creating a smeared look across different parts of the image. Position: Entire image"
+    },
+    {
+        "index": "174",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The textures in the image appear overly smooth without any variation or detail, making it look artificial. Position: Throughout the entire image"
+    },
+    {
+        "index": "87",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "Noise can be added to images for various effects, but excessive or random noise can detract from the overall quality and clarity. Position: Randomly distributed across the image"
+    },
+    {
+        "index": "140",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "Some areas of the image appear overly smooth, lacking the detail that would be expected in a naturally occurring surface. Position: Various locations within the image"
+    },
+    {
+        "index": "208",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "Noise artifacts introduce random variations in brightness or color on what should be a uniform surface, giving it a grainy appearance. This noise is present uniformly throughout the image. Position: All over the image"
+    },
+    {
+        "index": "55",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "No description available Position: Throughout the entire image"
+    },
+    {
+        "index": "237",
+        "artifact_name": "Texture bleeding between adjacent regions",
+        "explanation": "There are instances where one part of the texture seems to bleed into another, creating a less defined separation between different elements in the image. Position: Multiple locations across the image"
+    },
+    {
+        "index": "136",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The texture appears overly smooth without any visible details or variations, which can indicate over-processing. Position: Throughout the entire image"
+    },
+    {
+        "index": "43",
+        "artifact_name": "Texture bleeding between adjacent regions",
+        "explanation": "No description available Position: Entire image"
+    },
+    {
+        "index": "142",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "No description available Position: Everywhere in the image"
+    },
+    {
+        "index": "252",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The image exhibits areas where natural textures have been overly smoothed, losing detail and appearing artificial. Position: Throughout the entire image"
+    },
+    {
+        "index": "3",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is a presence of noise that seems artificially added across the surface of the image, disrupting any smooth transitions or gradients. Position: Throughout the entire image"
+    },
+    {
+        "index": "103",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "The image has an overall grainy appearance, which could be attributed to artificial noise applied during processing or capture. Position: Throughout the entire image"
+    },
+    {
+        "index": "113",
+        "artifact_name": "Blurred boundaries in fine details",
+        "explanation": "The edges of objects or features within the image are not sharply defined, leading to a lack of clarity and definition. Position: Present throughout the entire image"
+    },
+    {
+        "index": "295",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The surfaces in the image appear overly smooth and lack the detailed features that would be expected from a natural object or scene. Position: Throughout the entire image"
+    },
+    {
+        "index": "81",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The surface appears overly smooth without the expected variations and details typically found in natural textures. Position: Throughout the entire image"
+    },
+    {
+        "index": "22",
+        "artifact_name": "Non-manifold geometries in rigid structures",
+        "explanation": "Some parts of the structure do not conform to the expected geometric properties, causing irregularities. Position: Multiple spots throughout the image"
+    },
+    {
+        "index": "231",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The surface details are excessively smoothed out, losing the intricate features that would be present in a natural texture. Position: Throughout the image"
+    },
+    {
+        "index": "148",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is a presence of random, seemingly artificial noise on what should be a smooth surface, disrupting the visual coherence. Position: Scattered throughout the image"
+    },
+    {
+        "index": "187",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is an appearance of random speckles or grain across the image, which resembles artificial noise rather than a naturally occurring texture. Position: Throughout the entire image"
+    },
+    {
+        "index": "137",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "This artifact is characterized by an overly smooth appearance in certain parts of the image, which can result in loss of detail and realism. Position: Throughout the image"
+    },
+    {
+        "index": "63",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is an appearance of random speckles or grain across the surface, which suggests the presence of artificial noise rather than a naturally occurring pattern. Position: All over the image"
+    },
+    {
+        "index": "151",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The details in the image are smoothed out excessively, reducing the sharpness and clarity of features. Position: Throughout the image"
+    },
+    {
+        "index": "20",
+        "artifact_name": "Blurred boundaries in fine details",
+        "explanation": "Some regions of the image exhibit blurred boundaries, particularly in areas with intricate patterns or textures. Position: Various parts of the image"
+    },
+    {
+        "index": "83",
+        "artifact_name": "Unrealistic specular highlights",
+        "explanation": "The bright spots on the image suggest overly sharp reflections that do not correspond with the surface properties of the depicted objects. Position: Throughout the entire image"
+    },
+    {
+        "index": "261",
+        "artifact_name": "Aliasing along high-contrast edges",
+        "explanation": "Sharp lines and edges in the image show signs of aliasing, where the digital representation becomes jagged when there are abrupt changes in brightness or color. Position: Along the brightest streaks and sharp features within the image"
+    },
+    {
+        "index": "160",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "No description available Position: Throughout the entire image"
+    },
+    {
+        "index": "45",
+        "artifact_name": "Non-manifold geometries in rigid structures",
+        "explanation": "Some parts of the structure do not meet at a single point, indicating non-manifold geometry which can cause rendering issues. Position: Various points within the image"
+    },
+    {
+        "index": "117",
+        "artifact_name": "Texture repetition patterns",
+        "explanation": "Repetition of similar textures or patterns across the surface of an object, leading to visual noise. Position: Uniformly distributed"
+    },
+    {
+        "index": "299",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The surfaces in the image seem overly smooth and lack the fine details typically found in natural materials. Position: Across the entirety of the image"
+    },
+    {
+        "index": "42",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The overall appearance of the image suggests a lack of detail and sharpness, which could be due to over-smoothing of the natural textures present in the scene. Position: Throughout the entire image"
+    },
+    {
+        "index": "198",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "The presence of random speckles across the entire image suggests the introduction of artificial noise patterns, disrupting the uniformity and adding visual clutter. Position: Uniformly distributed"
+    },
+    {
+        "index": "135",
+        "artifact_name": "Non-manifold geometries in rigid structures",
+        "explanation": "The structure lacks smooth transitions between elements, causing a rough appearance that may suggest non-manifold geometry issues. Position: Throughout the entire image"
+    },
+    {
+        "index": "229",
+        "artifact_name": "Floating or disconnected components",
+        "explanation": "Parts of the image may seem to float away from the main structure or be detached, giving an impression of disconnection. Position: Various sections of the image"
+    },
+    {
+        "index": "180",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are visible grainy or noisy patterns across the surface of the image, suggesting digital corruption rather than a natural occurrence. Position: Throughout the entire image"
+    },
+    {
+        "index": "86",
+        "artifact_name": "Texture Bleeding",
+        "explanation": "There are areas where textures appear to bleed into adjacent regions, causing a lack of clear boundaries between different parts of the image. Position: Various locations"
+    },
+    {
+        "index": "123",
+        "artifact_name": "Texture Bleeding",
+        "explanation": "Textures from one region bleed into adjacent regions, causing a loss of sharpness and detail boundaries. Position: Image-wide"
+    },
+    {
+        "index": "93",
+        "artifact_name": "Floating or disconnected components",
+        "explanation": "Parts of the image seem to float without proper connection to other elements, giving a disjointed look. Position: Scattered throughout the image"
+    },
+    {
+        "index": "219",
+        "artifact_name": "Pixelation",
+        "explanation": "Loss of fine detail due to low resolution, causing the image to appear blocky and lacking in sharpness. Position: Throughout the entire image"
+    },
+    {
+        "index": "73",
+        "artifact_name": "Texture bleeding between adjacent regions",
+        "explanation": "There is a noticeable spread of texture from one area to another without clear boundaries, indicating an inconsistency in the material properties. Position: Across the entire image"
+    },
+    {
+        "index": "147",
+        "artifact_name": "Non-manifold geometries in rigid structures",
+        "explanation": "The image contains parts of objects that meet at points where they should be connected, creating a non-manifold structure. Position: Various locations within the image"
+    },
+    {
+        "index": "78",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is a presence of random speckles or grain that mimics noise commonly seen in digital images. Position: Throughout the entire image"
+    },
+    {
+        "index": "116",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "No description available Position: Throughout the entire image"
+    },
+    {
+        "index": "178",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is an apparent presence of random speckles or grain across the image, giving it a noisy appearance. Position: Throughout the entire image"
+    },
+    {
+        "index": "169",
+        "artifact_name": "Uniform Surface Noise",
+        "explanation": "The image exhibits a consistent pattern of random noise across its entirety, which is indicative of uniform surface noise. This can be observed as the lack of clear, distinct features or shapes throughout the image. Position: Entire Image"
+    },
+    {
+        "index": "72",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "No description available Position: Everywhere in the image"
+    },
+    {
+        "index": "158",
+        "artifact_name": "Discontinuous surfaces",
+        "explanation": "There are abrupt changes in texture and color across the surface, creating an uneven look. Position: Throughout the entire image"
+    },
+    {
+        "index": "204",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is an appearance of random graininess across the image, which suggests the presence of artificial noise rather than a naturally occurring texture variation. Position: Throughout the entire image"
+    },
+    {
+        "index": "56",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are visible noise patterns throughout the image that suggest a lack of uniformity and realism. Position: Across the entire image"
+    },
+    {
+        "index": "238",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are visible patterns resembling artificial noise, which disrupts the otherwise uniform appearance of the surface. Position: Throughout the entire image"
+    },
+    {
+        "index": "197",
+        "artifact_name": "Texture repetition patterns",
+        "explanation": "The image exhibits repeating patterns that suggest a lack of variation in texture, likely due to a repetitive noise pattern or low resolution. Position: Multiple areas"
+    },
+    {
+        "index": "109",
+        "artifact_name": "Over-sharpening artifacts",
+        "explanation": "There is a general lack of smoothness, indicating that some parts of the image may have been overly sharpened during processing. Position: Diffused across the image"
+    },
+    {
+        "index": "130",
+        "artifact_name": "Non-manifold geometries in rigid structures",
+        "explanation": "No description available Position: Uniformly distributed across the image"
+    },
+    {
+        "index": "222",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "Presence of random variations that mimic the look of noise added to an otherwise smooth surface. Position: The entire image"
+    },
+    {
+        "index": "19",
+        "artifact_name": "Texture bleeding",
+        "explanation": "The texture appears to blend into adjacent regions without clear boundaries, suggesting that one area's texture is extending beyond its intended limits. Position: Everywhere in the image"
+    },
+    {
+        "index": "106",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The texture in the image appears overly smooth and lacks detail, which is characteristic of over-smoothing applied to natural textures. Position: Everywhere"
+    },
+    {
+        "index": "225",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are random speckles across the image that resemble digital noise rather than a naturally occurring pattern or texture. Position: Throughout the entire image"
+    },
+    {
+        "index": "253",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The details in the texture are not sharp and seem overly smoothed out. Position: Throughout the image"
+    },
+    {
+        "index": "215",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "This artifact results in areas of the image appearing too smooth and lacking detail, which can make the surface look artificial or overly processed. Position: Image-wide"
+    },
+    {
+        "index": "37",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The texture is excessively smooth, lacking detail that would be present in a more realistic representation. Position: Throughout the image"
+    },
+    {
+        "index": "182",
+        "artifact_name": "Uniform noise",
+        "explanation": "The image appears to have a uniform pattern of noise, which is characterized by random variations in brightness or color. This could be due to digital noise or poor signal-to-noise ratio during capture. Position: Across the entire image"
+    },
+    {
+        "index": "46",
+        "artifact_name": "Bilateral element misalignment",
+        "explanation": "The bilateral elements on either side of the central axis appear to be slightly misaligned with each other, causing an unnatural look. Position: Center of the image along the vertical axis"
+    },
+    {
+        "index": "21",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are visible patterns that resemble digital noise across the surface of the image, suggesting it was artificially added or generated. Position: Throughout the entire image"
+    },
+    {
+        "index": "23",
+        "artifact_name": "Irregular proportions in mechanical components",
+        "explanation": "Mechanical parts have disproportionate sizes, contributing to an unrealistic look. Position: Uniform throughout the image"
+    },
+    {
+        "index": "173",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The surface details are excessively smoothed out, lacking the fine detail that would be present in a real-world object or scene. Position: Throughout the entire image"
+    },
+    {
+        "index": "273",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The image shows an unnatural smoothing over what should be more complex and varied textures. Position: Throughout the entire image"
+    },
+    {
+        "index": "289",
+        "artifact_name": "Texture Bleeding",
+        "explanation": "There is a noticeable blending of textures where different patterns merge without clear boundaries, suggesting texture bleeding between adjacent regions. Position: Entire Image"
+    },
+    {
+        "index": "146",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are random speckles across the image that suggest the presence of artificial noise rather than natural graininess or imperfections. Position: Throughout the image"
+    },
+    {
+        "index": "96",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "No description available Position: Uniformly distributed throughout the image"
+    },
+    {
+        "index": "47",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are random variations in brightness and contrast across the image which resemble noise patterns typically added artificially to simulate graininess or irregularity. Position: Throughout the entire image"
+    },
+    {
+        "index": "263",
+        "artifact_name": "Uniform Noise",
+        "explanation": "The image exhibits a pattern of random variations in brightness, which is indicative of uniform noise. This artifact affects the entire image uniformly. Position: Whole Image"
+    },
+    {
+        "index": "129",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are visible grainy or speckled areas across the image which resemble artificial noise added to the surface. Position: Uniformly distributed throughout the image"
+    },
+    {
+        "index": "98",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are noticeable grainy or noisy patterns on what should be a smooth surface, suggesting the presence of artificial noise. Position: Across the entire image"
+    },
+    {
+        "index": "102",
+        "artifact_name": "Blurred boundaries in fine details",
+        "explanation": "Loss of clarity in small features or textures within the image. Position: All over the image"
+    },
+    {
+        "index": "118",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The overall surface appears too smooth without the fine details typically found in natural textures, suggesting an over-smoothing effect. Position: Throughout the entire image"
+    },
+    {
+        "index": "139",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "These are random variations in color or brightness intended to simulate real-world imperfections. This can make the surface appear more realistic but also adds unwanted visual noise. Position: Throughout the entire image"
+    },
+    {
+        "index": "206",
+        "artifact_name": "Irregular proportions in mechanical components",
+        "explanation": "No description available Position: Throughout the entire image"
+    },
+    {
+        "index": "138",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The overall surface appears overly smooth and lacks the intricate details typically found in natural textures. Position: Throughout the image"
+    },
+    {
+        "index": "243",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The details in the image appear overly smooth and lack the intricate variations typically found in natural surfaces. Position: Throughout the entire image"
+    },
+    {
+        "index": "76",
+        "artifact_name": "Floating or disconnected components",
+        "explanation": "No description available Position: Central"
+    },
+    {
+        "index": "234",
+        "artifact_name": "Ghosting effects: Semi-transparent duplicates of elements",
+        "explanation": "Presence of blurred and semi-transparent duplicate images of elements within the same region. Position: Throughout the image where details are indistinct"
+    },
+    {
+        "index": "77",
+        "artifact_name": "Texture bleeding between adjacent regions",
+        "explanation": "The transitions between different shades and tones within the image are not crisp, leading to a blending or bleeding effect where one area's texture extends into another. Position: Throughout the entire image"
+    },
+    {
+        "index": "11",
+        "artifact_name": "Blurred boundaries in fine details",
+        "explanation": "The image exhibits blurred boundaries, particularly noticeable in the finer details which lack sharp definition. This artifact is visible throughout the entire image. Position: Everywhere in the image"
+    },
+    {
+        "index": "194",
+        "artifact_name": "Inconsistent object boundaries",
+        "explanation": "The edges of objects within the image do not follow a consistent pattern and vary in sharpness and definition. Position: Throughout the entire image"
+    },
+    {
+        "index": "181",
+        "artifact_name": "Floating or disconnected components",
+        "explanation": "No individual components can be identified as separate entities within the image, contributing to a floating appearance. Position: Throughout the image"
+    },
+    {
+        "index": "75",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is a grainy appearance across the image, suggesting the presence of artificial noise rather than a naturally occurring texture or pattern. Position: Throughout the entire image"
+    },
+    {
+        "index": "89",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "Some areas seem overly smooth and lack the fine details typically found in natural surfaces. Position: Various spots throughout the image"
+    },
+    {
+        "index": "124",
+        "artifact_name": "Over-sharpening artifacts",
+        "explanation": "There is an excessive sharpness in certain regions of the image, which can cause details to appear too crisp and unnatural. Position: Various spots throughout the image"
+    },
+    {
+        "index": "5",
+        "artifact_name": "Texture repetition patterns",
+        "explanation": "There are noticeable repeating textures or patterns that suggest a lack of variation in the surface. Position: Throughout the image"
+    },
+    {
+        "index": "29",
+        "artifact_name": "Discontinuous surfaces",
+        "explanation": "There are areas where the surface is broken up into distinct sections without a clear transition between them. Position: Multiple locations across the image"
+    },
+    {
+        "index": "276",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "No description available Position: Center"
+    },
+    {
+        "index": "259",
+        "artifact_name": "Over-sharpening artifacts",
+        "explanation": "Sharp edges and details are overly emphasized, leading to an unnatural appearance in certain parts of the image. Position: Various locations within the image"
+    },
+    {
+        "index": "228",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "This refers to an excessive smoothing of natural textures that results in a loss of detail and realism. The image shows signs of this as the details are not sharp and appear somewhat smoothed out. Position: Throughout the entire image"
+    },
+    {
+        "index": "248",
+        "artifact_name": "Uniform noise",
+        "explanation": "The image displays a consistent pattern of random speckles across the entire frame, indicative of uniform noise which can be caused by various factors such as sensor noise or compression artifacts. Position: Entire image"
+    },
+    {
+        "index": "85",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "This suggests random speckles or graininess across the surface of the image, which appears unnatural. Position: Throughout the image"
+    },
+    {
+        "index": "101",
+        "artifact_name": "Texture bleeding between adjacent regions",
+        "explanation": "This artifact occurs when textures from one region bleed into another, creating a less defined or blurred transition. It is present in the image where the grayscale gradient blends without clear boundaries. Position: Throughout the entire image"
+    },
+    {
+        "index": "15",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "This results in areas where the texture appears too smooth or lacks detail, often due to excessive smoothing during processing. Position: Multiple regions"
+    },
+    {
+        "index": "111",
+        "artifact_name": "Over-sharpening artifacts",
+        "explanation": "No description available Position: Scattered throughout the image"
+    },
+    {
+        "index": "290",
+        "artifact_name": "Non-manifold geometries in rigid structures",
+        "explanation": "Some parts of the image may have non-manifold geometries, meaning that they don't meet certain mathematical requirements for smoothness and continuity. Position: Various regions within the image"
+    },
+    {
+        "index": "41",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The image lacks detailed features and appears overly smooth, which could suggest that either the original surface was naturally smooth or the smoothing process applied during image processing was too aggressive. Position: Uniformly distributed across the entire image"
+    },
+    {
+        "index": "6",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "No description available Position: Throughout the entire image"
+    },
+    {
+        "index": "166",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is an appearance of random speckles or grain throughout the image, suggesting the presence of artificial noise rather than natural variations. Position: Throughout the entire image"
+    },
+    {
+        "index": "190",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are noticeable random variations in brightness and contrast across the image, resembling artificial noise rather than a natural pattern. Position: Throughout the entire image"
+    },
+    {
+        "index": "54",
+        "artifact_name": "Over-smoothing",
+        "explanation": "The details in the image are excessively smooth and lack the sharpness that would be expected from a high-resolution capture or natural texture. Position: Across the entire image"
+    },
+    {
+        "index": "184",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The surfaces in the image are overly smooth and lack the fine details typically found in natural textures. Position: Throughout the image"
+    },
+    {
+        "index": "62",
+        "artifact_name": "Texture bleeding between adjacent regions",
+        "explanation": "This artifact occurs when the texture transitions from one region to another without a clear boundary, causing the textures to blend into each other. It is evident in this image where the light and dark areas seem to bleed into each other rather than sharply transition. Position: Throughout the entire image"
+    },
+    {
+        "index": "112",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "The presence of what appears to be artificial noise throughout the image indicates an issue with the rendering process or a deliberate application for effect. Position: Throughout the entire image"
+    },
+    {
+        "index": "155",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are noticeable noise patterns present on what should be a uniform surface, suggesting artificial noise has been added. Position: Throughout the entire image"
+    },
+    {
+        "index": "132",
+        "artifact_name": "Non-manifold geometries in rigid structures",
+        "explanation": "Some regions of the image exhibit non-manifold geometry, meaning they do not follow a continuous structure. Position: Multiple spots throughout the image"
+    },
+    {
+        "index": "122",
+        "artifact_name": "Texture repetition patterns",
+        "explanation": "No description available Position: Throughout the entire image"
+    },
+    {
+        "index": "230",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is a grainy texture overlaying the entire image, which suggests added noise rather than a naturally occurring pattern. Position: Throughout the image"
+    },
+    {
+        "index": "247",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The details in the image appear overly smooth and lack the intricate patterns typically found in natural surfaces. Position: Throughout the entire image"
+    },
+    {
+        "index": "188",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are noticeable artificial noise patterns present across the image, disrupting the smoothness and uniformity of the surface. Position: Throughout the entire image"
+    },
+    {
+        "index": "262",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "The image exhibits random speckles or graininess across its surface, indicative of added artificial noise rather than a naturally occurring pattern. Position: Throughout the entire image"
+    },
+    {
+        "index": "172",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The surfaces lack detail and appear overly smooth, lacking the fine details typically found in natural textures. Position: Throughout the image"
+    },
+    {
+        "index": "8",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "This artifact results from excessive smoothing applied to the image's surface, leading to a loss of detail and a more artificial appearance. Position: Image-wide"
+    },
+    {
+        "index": "195",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "The image appears to have random speckles across its surface, resembling artificial noise typically added during digital processing or as an effect. Position: Throughout the entire image"
+    },
+    {
+        "index": "57",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "Certain areas of the image seem excessively smooth, lacking the fine details typically found in natural surfaces. Position: Multiple areas across the image"
+    },
+    {
+        "index": "224",
+        "artifact_name": "Texture Bleeding",
+        "explanation": "There is evidence of texture bleeding between adjacent regions, indicating that the textures have not been properly separated or masked. Position: Everywhere in the image"
+    },
+    {
+        "index": "251",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "This refers to the smoothing out of textures that should be more detailed or varied, leading to a loss of realism. Position: Throughout the image"
+    },
+    {
+        "index": "149",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The texture appears overly smooth without any distinct details, suggesting an artificial smoothing effect over the surface. Position: Throughout the entire image"
+    },
+    {
+        "index": "159",
+        "artifact_name": "Texture Bleeding",
+        "explanation": "No description available Position: Diffuse throughout the image"
+    },
+    {
+        "index": "131",
+        "artifact_name": "Over-smoothing of Natural Textures",
+        "explanation": "There's an absence of sharp details and textures that are typically present in natural images, suggesting over-smoothing. Position: Entire Image"
+    },
+    {
+        "index": "167",
+        "artifact_name": "Uniform Surface Noise",
+        "explanation": "The image exhibits a consistent pattern of noise across its entire surface, suggesting uniform surface noise as an artifact. Position: Whole image"
+    },
+    {
+        "index": "18",
+        "artifact_name": "Over-Smoothing",
+        "explanation": "There is a lack of sharpness and detail in the image, suggesting that the surface has been artificially smoothed to remove texture and detail. Position: Whole image"
+    },
+    {
+        "index": "298",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "No description available Position: Throughout the entire image"
+    },
+    {
+        "index": "268",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are areas within the image that resemble noise, which is not consistent with the rest of the surface, indicating artificial addition or corruption. Position: Scattered throughout the image"
+    },
+    {
+        "index": "269",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The image appears overly smooth with no distinct features or details, suggesting an unnatural smoothing over the surface. Position: Throughout the entire image"
+    },
+    {
+        "index": "27",
+        "artifact_name": "Irregular proportions in mechanical components",
+        "explanation": "The structure appears with non-uniform and disproportionate elements, suggesting that the mechanical parts may not be accurately scaled or designed. Position: Everywhere within the image"
+    },
+    {
+        "index": "141",
+        "artifact_name": "Bilateral symmetry breaking",
+        "explanation": "Symmetry is not perfectly preserved along the vertical axis, suggesting a lack of bilateral symmetry in the object's features. Position: Vertical axis"
+    },
+    {
+        "index": "35",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The surface appears overly smooth without any visible detail or variation, which is not characteristic of natural textures. Position: Throughout the entire image"
+    },
+    {
+        "index": "286",
+        "artifact_name": "Texture bleeding between adjacent regions",
+        "explanation": "Textures seem to bleed into each other, lacking clear boundaries, especially noticeable in the central region. Position: Central part of the image"
+    },
+    {
+        "index": "51",
+        "artifact_name": "Uniform Surface Noise",
+        "explanation": "Presence of a consistent grainy texture across the image, indicating noise or lack of detail. Position: Entire Image"
+    },
+    {
+        "index": "127",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The details in the image are excessively smoothed out, reducing the clarity and realism of any texture present. Position: Everywhere in the image"
+    },
+    {
+        "index": "1",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is a noticeable grainy appearance throughout the image, suggesting the presence of artificial noise rather than a naturally occurring texture or pattern. Position: Throughout the entire image"
+    },
+    {
+        "index": "9",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is an apparent presence of random noise throughout the image, which is not naturally occurring. Position: Throughout the image"
+    },
+    {
+        "index": "236",
+        "artifact_name": "Non-manifold geometries in rigid structures",
+        "explanation": "No description available Position: Throughout the entire image"
+    },
+    {
+        "index": "288",
+        "artifact_name": "Non-manifold geometries in rigid structures",
+        "explanation": "No description available Position: Scattered throughout the image"
+    },
+    {
+        "index": "4",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is a noticeable pattern of random noise across the image that does not occur naturally. Position: Across the entire image"
+    },
+    {
+        "index": "79",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "Random speckles or grainy patterns appear on what should be a smooth surface, creating an unnatural look. Position: Throughout the image"
+    },
+    {
+        "index": "65",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is an appearance of random graininess or speckling across the surface, suggesting a noisy texture rather than a naturally occurring one. Position: Throughout the entire image"
+    },
+    {
+        "index": "287",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The image appears to have an unnatural smoothing effect on its surface details, suggesting a loss of fine texture information. Position: Throughout the entire image"
+    },
+    {
+        "index": "226",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The surfaces lack detail and appear overly smooth, which is unnatural for many real-world objects. Position: Throughout the image"
+    },
+    {
+        "index": "186",
+        "artifact_name": "Texture bleeding between adjacent regions",
+        "explanation": "The texture transitions from one side to another without clear demarcation lines, leading to bleeding between different areas. Position: Throughout the image"
+    },
+    {
+        "index": "28",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "The presence of random speckles or graininess on areas where a smooth surface is expected, indicating digital corruption or low-quality rendering. Position: Scattered throughout the image"
+    },
+    {
+        "index": "32",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The surface details in the image are excessively smooth, lacking the fine detail that would be present in a realistic representation. Position: Throughout the entire image"
+    },
+    {
+        "index": "100",
+        "artifact_name": "Asymmetric features in naturally symmetric objects",
+        "explanation": "The image contains asymmetrical elements when it should have symmetrical ones, disrupting the expected balance. Position: Throughout the entire image"
+    },
+    {
+        "index": "233",
+        "artifact_name": "Loss of fine detail in complex structures",
+        "explanation": "The intricate details within the image are not clearly visible due to a lack of resolution or sharpness. Position: Uniformly distributed across the entire image"
+    },
+    {
+        "index": "280",
+        "artifact_name": "Texture repetition patterns",
+        "explanation": "No description available Position: Notable in the central region and radiating outward"
+    },
+    {
+        "index": "168",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is a noticeable presence of random speckles across the image, which resemble digital noise rather than natural imperfections. Position: Throughout the entire image"
+    },
+    {
+        "index": "213",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The textures appear overly smooth without the expected fine details typically found in nature. Position: Across the whole image"
+    },
+    {
+        "index": "66",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The surface appears overly smooth and lacks the fine details that would be present in a naturally occurring object. Position: Throughout the entire image"
+    },
+    {
+        "index": "12",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is a noticeable presence of random speckles across the image, resembling artificial noise that disrupts the otherwise uniform surface. Position: Everywhere in the image"
+    },
+    {
+        "index": "36",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "No description available Position: Uniformly distributed across the image"
+    },
+    {
+        "index": "164",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "No description available Position: Throughout the entire image"
+    },
+    {
+        "index": "150",
+        "artifact_name": "Texture bleeding between adjacent regions",
+        "explanation": "No description available Position: Across the entirety of the image"
+    },
+    {
+        "index": "68",
+        "artifact_name": "Discontinuous surfaces",
+        "explanation": "There are noticeable breaks and gaps on the surface textures which appear discontinuous. Position: Throughout the entire image"
+    },
+    {
+        "index": "242",
+        "artifact_name": "Non-manifold geometries in rigid structures",
+        "explanation": "The structure has points where multiple edges meet at a single point, which is inconsistent with rigid geometry principles. Position: Various points within the image"
+    },
+    {
+        "index": "257",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The details are excessively smoothed out, losing the fine nuances that define natural surfaces. Position: Everywhere in the image"
+    },
+    {
+        "index": "48",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "Noise-like artifacts appear randomly on areas that should be smooth or have a consistent pattern. Position: Throughout the image"
+    },
+    {
+        "index": "49",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is an appearance of random graininess across the entire image, suggesting artificial noise rather than natural variation. Position: Throughout the image"
+    },
+    {
+        "index": "104",
+        "artifact_name": "Uniform noise",
+        "explanation": "No description available Position: Throughout the entire image"
+    },
+    {
+        "index": "60",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The surface details seem to be overly smoothed out, lacking the fine details typically found in natural textures. Position: Throughout the entire image"
+    },
+    {
+        "index": "292",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The texture lacks detail and appears too smooth, which is not characteristic of the material being represented. Position: Throughout the image"
+    },
+    {
+        "index": "294",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The texture details are smoothed out excessively, leading to a loss of fine details and a more artificial look. Position: Across the entire image"
+    },
+    {
+        "index": "254",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are visible noise patterns scattered across the image, giving it an artificial look rather than a natural one. Position: Throughout the entire image"
+    },
+    {
+        "index": "163",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are visible noise patterns that disrupt the otherwise smooth surface of the image, giving it a grainy appearance. Position: Throughout the image"
+    },
+    {
+        "index": "284",
+        "artifact_name": "Non-manifold geometries in rigid structures",
+        "explanation": "No description available Position: Throughout the entire image"
+    },
+    {
+        "index": "266",
+        "artifact_name": "Inconsistent object boundaries",
+        "explanation": "The edges of objects within the image do not conform to realistic expectations, leading to an inconsistency in their appearance. Position: Throughout the image"
+    },
+    {
+        "index": "277",
+        "artifact_name": "Loss of fine detail in complex structures",
+        "explanation": "Due to the high level of noise and lack of clarity, finer details within the image are lost, making it difficult to discern specific features or textures. Position: Throughout the image"
+    },
+    {
+        "index": "279",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The details in the image are excessively smoothed out, reducing the clarity and sharpness of features that should be more pronounced. Position: Throughout the entire image"
+    },
+    {
+        "index": "223",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The surface details are uniformly smooth without any distinct features or variations that would be expected in a more natural setting. Position: Throughout the entire image"
+    },
+    {
+        "index": "145",
+        "artifact_name": "Texture bleeding between adjacent regions",
+        "explanation": "Blurring of one texture into another, causing colors and details to mix unexpectedly where two different textures meet. Position: Across various parts of the image"
+    },
+    {
+        "index": "293",
+        "artifact_name": "Texture bleeding between adjacent regions",
+        "explanation": "Blurring of textures from one area into another, causing a loss of sharpness and definition where different textures meet. Position: Throughout the entire image"
+    },
+    {
+        "index": "239",
+        "artifact_name": "Texture repetition patterns",
+        "explanation": "There are repetitive textures throughout the image, suggesting a lack of variation in the surface material. Position: Throughout the entire image"
+    },
+    {
+        "index": "143",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are noticeable random speckles throughout the image that resemble artificial noise rather than natural variation. Position: Throughout the entire image"
+    },
+    {
+        "index": "220",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The image shows an unnatural level of smoothness in certain areas where the details are lost, indicating excessive smoothing applied to the texture. Position: Various parts of the image"
+    },
+    {
+        "index": "31",
+        "artifact_name": "Floating or disconnected components",
+        "explanation": "No description available Position: Scattered throughout the image"
+    },
+    {
+        "index": "144",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "The image has a grainy texture that resembles artificial noise, suggesting the presence of random variations in color and brightness. Position: Throughout the entire image"
+    },
+    {
+        "index": "191",
+        "artifact_name": "Texture bleeding between adjacent regions",
+        "explanation": "There is a noticeable blending of tones and shades across different parts of the image, suggesting that one region's texture is bleeding into another. Position: Throughout the entire image"
+    },
+    {
+        "index": "278",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "Random speckles or grain-like artifacts are present across the entire image. Position: Uniformly distributed"
+    },
+    {
+        "index": "282",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are noticeable noise patterns on what would otherwise be a smooth and consistent surface. Position: Randomly scattered throughout the image"
+    },
+    {
+        "index": "211",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The details in the image are overly smooth and lack the fine details typically found in natural surfaces. Position: Throughout the entire image"
+    },
+    {
+        "index": "59",
+        "artifact_name": "Uniform Texture",
+        "explanation": "The image appears to have a uniform texture across its entirety, lacking variation or detail which could indicate the presence of other artifacts. Position: Entire Image"
+    },
+    {
+        "index": "39",
+        "artifact_name": "Non-manifold geometries in rigid structures",
+        "explanation": "No description available Position: Multiple locations across the image"
+    },
+    {
+        "index": "153",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "No description available Position: Throughout the entire image"
+    },
+    {
+        "index": "202",
+        "artifact_name": "Over-sharpening artifacts",
+        "explanation": "There is a noticeable over-sharpening effect on certain areas, particularly around the center where the bright spots are more pronounced. This can cause loss of detail and an unnatural appearance. Position: Center of the image, radiating outward"
+    },
+    {
+        "index": "52",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The surface details are excessively smooth, lacking the intricate texture that would be expected in a natural setting. Position: Throughout the entire image"
+    },
+    {
+        "index": "241",
+        "artifact_name": "Discontinuous surfaces",
+        "explanation": "No description available Position: Throughout the entire image"
+    },
+    {
+        "index": "108",
+        "artifact_name": "Uniform Surface Noise",
+        "explanation": "The image exhibits a consistent pattern of graininess or noise throughout, which is indicative of uniform surface noise. This can be observed across the entire image without any clear focal point. Position: Uniformly distributed"
+    },
+    {
+        "index": "179",
+        "artifact_name": "Non-manifold geometries in rigid structures",
+        "explanation": "The shapes within the image exhibit non-manifold characteristics, which means they have vertices or edges shared by more than two faces or polygons. Position: Various parts of the image"
+    },
+    {
+        "index": "53",
+        "artifact_name": "Random noise patterns in detailed areas",
+        "explanation": "No description available Position: Throughout the entire image"
+    },
+    {
+        "index": "255",
+        "artifact_name": "Non-manifold geometries in rigid structures",
+        "explanation": "Some parts of the structure do not follow standard geometric rules, resulting in non-manifold shapes. Position: Various points within the image"
+    },
+    {
+        "index": "246",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are noticeable grainy or speckled patterns that resemble artificial noise, disrupting the uniformity of certain areas. Position: Scattered throughout the image"
+    },
+    {
+        "index": "99",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is an appearance of random speckles or noise across the surface of the image, suggesting the presence of artificial noise rather than natural variation. Position: Throughout the entire image"
+    },
+    {
+        "index": "264",
+        "artifact_name": "Texture bleeding between adjacent regions",
+        "explanation": "There is a noticeable blending or merging of textures across different parts of the image, leading to an unnatural appearance where boundaries are not clearly defined. Position: Entire image"
+    },
+    {
+        "index": "270",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "These are random variations in color or brightness that give the appearance of noise on otherwise smooth surfaces. Position: Throughout the image"
+    },
+    {
+        "index": "170",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "No description available Position: Throughout the entire image"
+    },
+    {
+        "index": "33",
+        "artifact_name": "Artificial enhancement artifacts",
+        "explanation": "The image appears to have been artificially enhanced with filters or effects that create an unnatural look. Position: Everywhere in the image"
+    },
+    {
+        "index": "201",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are random speckles across the image that resemble digital noise rather than a naturally occurring pattern or texture. Position: Throughout the entire image"
+    },
+    {
+        "index": "16",
+        "artifact_name": "Non-manifold geometries in rigid structures",
+        "explanation": "The structure lacks smoothness and has non-manifold geometries, which means it is not well-defined by its vertices and edges. Position: Everywhere within the image"
+    },
+    {
+        "index": "13",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The overall surface appears too smooth, lacking the fine details and variations typically found in natural textures. Position: Throughout the entire image"
+    },
+    {
+        "index": "58",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "Uniform surfaces in the image contain random noise patterns that are not naturally occurring, indicating artificial noise artifacts. Position: Across the entire image"
+    },
+    {
+        "index": "120",
+        "artifact_name": "Irregular proportions in mechanical components",
+        "explanation": "The shapes seem disproportionate or unrealistic for mechanical parts. Position: Throughout the image"
+    },
+    {
+        "index": "176",
+        "artifact_name": "Inconsistent object boundaries",
+        "explanation": "No description available Position: Throughout the entire image"
+    },
+    {
+        "index": "38",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The details in the image are excessively smooth, which is not typical for natural surfaces and suggests possible smoothing artifacts from processing or corruption. Position: Throughout the entire image"
+    },
+    {
+        "index": "177",
+        "artifact_name": "Asymmetric features in naturally symmetric objects",
+        "explanation": "Symmetry is broken within the image, indicating an asymmetrical feature on what should be a naturally symmetrical object. Position: Throughout the entire image"
+    },
+    {
+        "index": "285",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are visible patterns that resemble random noise or graininess on what should be a smooth surface, disrupting the visual consistency. Position: Uniformly distributed across the image"
+    },
+    {
+        "index": "88",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There are random speckles and graininess across the image, suggesting an artificial noise has been applied. Position: Throughout the entire image"
+    },
+    {
+        "index": "25",
+        "artifact_name": "Texture bleeding between adjacent regions",
+        "explanation": "There appears to be a blending or bleeding of the textures from one region into another, creating an unnatural flow and lack of clear boundaries. Position: Entire Image"
+    },
+    {
+        "index": "7",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "Textures that should naturally vary in appearance are presented uniformly, lacking the expected variations. Position: Throughout the entire image"
+    },
+    {
+        "index": "69",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "This results in a loss of detail and smoothness where natural textures should be more varied and complex. Position: Image-wide"
+    },
+    {
+        "index": "210",
+        "artifact_name": "Texture repetition patterns",
+        "explanation": "Repetitive patterns are visible within the texture, creating an artificial look rather than a natural one. Position: Throughout the entire image"
+    },
+    {
+        "index": "196",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is a noticeable graininess across the image, indicating the presence of artificial noise which disrupts the uniformity of the surface. Position: Uniformly distributed"
+    },
+    {
+        "index": "297",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The texture in the image appears overly smooth and lacks the fine details typically found in natural surfaces. Position: Throughout the entire image"
+    },
+    {
+        "index": "283",
+        "artifact_name": "Over-smoothing of Natural Textures",
+        "explanation": "There is an absence of fine details and textures that would typically be present on natural surfaces, suggesting over-smoothing. Position: Throughout the entire image"
+    },
+    {
+        "index": "92",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The details in the image are overly smooth and lack the fine intricacies typical of natural surfaces. Position: Throughout the image"
+    },
+    {
+        "index": "125",
+        "artifact_name": "Lack of Clarity",
+        "explanation": "The image lacks clear features and details, making it difficult to distinguish specific elements. Position: Whole image"
+    },
+    {
+        "index": "183",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "There is an apparent presence of random speckles or grain throughout the image, indicative of added noise rather than a natural phenomenon. Position: Across the entire image"
+    },
+    {
+        "index": "200",
+        "artifact_name": "Over-saturation",
+        "explanation": "There is an over-saturation of light areas which appear washed out or excessively bright, causing loss of detail in those regions. Position: center-right of the image"
+    },
+    {
+        "index": "221",
+        "artifact_name": "Non-manifold geometries in rigid structures",
+        "explanation": "Some parts of the image have non-manifold geometry, meaning they contain vertices that are connected to more than three other vertices, which is not typical for solid objects. Position: Throughout the entire image"
+    },
+    {
+        "index": "281",
+        "artifact_name": "Irregular proportions in mechanical components",
+        "explanation": "Some parts of the image do not appear to have consistent proportions, suggesting a lack of precision in the design or rendering process. Position: Image-wide"
+    },
+    {
+        "index": "244",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "Noise is present across the entire surface, giving it an inconsistent and grainy look, suggesting artificial addition rather than natural variation. Position: Throughout the image"
+    },
+    {
+        "index": "157",
+        "artifact_name": "Artificial noise patterns in uniform surfaces",
+        "explanation": "These are random patterns of variation in brightness or color information, often used as a visual effect but appearing unintentionally in this context. Position: Throughout the entire image"
+    },
+    {
+        "index": "119",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The details in the image appear to be smoothed out excessively, lacking the fine details typically found in natural textures. Position: Throughout the entire image"
+    },
+    {
+        "index": "227",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The surface details are excessively smoothed out, lacking the sharpness and variation found in real-world textures. Position: Throughout the image"
+    },
+    {
+        "index": "90",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "This artifact refers to the smoothing out of details within the image that should be sharp and distinct, often seen in areas with fine detail like fur or skin. Position: Throughout the entire image"
+    },
+    {
+        "index": "245",
+        "artifact_name": "Over-smoothed Areas",
+        "explanation": "Certain parts of the image appear excessively smooth compared to others, suggesting over-smoothing in those areas. Position: Randomly distributed"
+    },
+    {
+        "index": "205",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The details within the image are smoothed out excessively, reducing the realistic appearance of any fine textures or features that should naturally exist in such a pattern. Position: Everywhere in the image"
+    },
+    {
+        "index": "115",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "This indicates a loss of detail and texture information typically found on natural surfaces. Position: Everywhere in the image"
+    },
+    {
+        "index": "235",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "The image appears to have areas that are too smooth and lack the detail typically found in natural textures. Position: Throughout the entire image"
+    },
+    {
+        "index": "97",
+        "artifact_name": "Texture bleeding between adjacent regions",
+        "explanation": "This happens when textures extend into areas they shouldn't, blurring the boundaries and causing a less distinct separation between different surfaces. Position: Image-wide"
+    },
+    {
+        "index": "199",
+        "artifact_name": "Over-smoothing of natural textures",
+        "explanation": "No description available Position: Everywhere in the image"
+    },
+    {
+        "index": "156",
+        "artifact_name": "Texture bleeding between adjacent regions",
+        "explanation": "There is a noticeable blending or bleeding of different shades of gray across the image, indicating a lack of sharp boundaries between distinct areas. Position: Throughout the entire image"
+    }
+]
